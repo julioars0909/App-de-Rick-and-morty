@@ -75,6 +75,10 @@
     .location--list {
         gap: 2rem;
     }
+
+    .form--input {
+        width: 350px;
+    }
 }
 
 .alert {
